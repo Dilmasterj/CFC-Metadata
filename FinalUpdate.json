@@ -3462,7 +3462,7 @@
           "state" : "Kentucky"
         },
         {
-          "abbreviation" : "SMA",
+          "abbreviation" : "CONN",
           "prestige" : "62",
           "hexColor" : "#00214D",
           "offCoordinator" : {
@@ -3595,7 +3595,7 @@
             "name" : "Davion Rickenbaugh",
             "contractYear" : "1"
           },
-          "rival" : "BST",
+          "rival" : "CONN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -3959,7 +3959,7 @@
             "name" : "Steve Bustle",
             "contractYear" : "1"
           },
-          "rival" : "BYU",
+          "rival" : "USU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -4578,7 +4578,7 @@
             "name" : "Scott Mannie",
             "contractYear" : "1"
           },
-          "rival" : "DUKE",
+          "rival" : "APST",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -5217,7 +5217,7 @@
             "hometown" : "Bradenton",
             "ratTalent" : "73",
             "baselinePrestige" : "67",
-            "name" : "Doug Stumpf",
+            "name" : "Chris Jones",
             "contractYear" : "3"
           },
           "name" : "South Florida",
