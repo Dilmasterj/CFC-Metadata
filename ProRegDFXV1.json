@@ -3137,7 +3137,7 @@
             "name" : "Jose Friest",
             "contractYear" : "0"
           },
-          "rival" : "ARK",
+          "rival" : "USF",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -3188,7 +3188,7 @@
             "name" : "Cory Colpitts",
             "contractYear" : "0"
           },
-          "rival" : "TROY",
+          "rival" : "UCF",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -3239,7 +3239,7 @@
             "name" : "Kesean Stober",
             "contractYear" : "2"
           },
-          "rival" : "FIU",
+          "rival" : "MIZZ",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -3290,7 +3290,7 @@
             "name" : "Carlton Schwipps",
             "contractYear" : "0"
           },
-          "rival" : "USF",
+          "rival" : "ARK",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -3341,7 +3341,7 @@
             "name" : "Wally McCargar",
             "contractYear" : "2"
           },
-          "rival" : "MIZZ",
+          "rival" : "FIU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -3392,7 +3392,7 @@
             "name" : "Shawn Yanes",
             "contractYear" : "1"
           },
-          "rival" : "FAU",
+          "rival" : "TUL",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -3443,7 +3443,7 @@
             "name" : "Towers Goerner",
             "contractYear" : "0"
           },
-          "rival" : "UCF",
+          "rival" : "Troy",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -3545,7 +3545,7 @@
             "name" : "Todd Gemma",
             "contractYear" : "0"
           },
-          "rival" : "TUL",
+          "rival" : "FAU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -3617,7 +3617,7 @@
         }
       ],
       "confFullName" : "Southeastern B",
-      "confPrestige" : "75",
+      "confPrestige" : "0",
       "confName" : "SECB"
     },
     {
@@ -4134,7 +4134,7 @@
         }
       ],
       "confFullName" : "BigTen B",
-      "confPrestige" : "70",
+      "confPrestige" : "0",
       "confName" : "B10B"
     },
     {
@@ -4651,7 +4651,7 @@
         }
       ],
       "confFullName" : "Atlantic Coast B",
-      "confPrestige" : "70",
+      "confPrestige" : "0",
       "confName" : "ACCB"
     },
     {
@@ -5168,7 +5168,7 @@
         }
       ],
       "confFullName" : "BigXII B",
-      "confPrestige" : "65",
+      "confPrestige" : "0",
       "confName" : "B12B"
     },
     {
@@ -5685,7 +5685,7 @@
         }
       ],
       "confFullName" : "Pacific12 B",
-      "confPrestige" : "70",
+      "confPrestige" : "0",
       "confName" : "PACB"
     },
     {
@@ -6202,46 +6202,50 @@
         }
       ],
       "confFullName" : "Independents B",
-      "confPrestige" : "60",
+      "confPrestige" : "0",
       "confName" : "INDB"
     }
   ],
   "bowlGames" : [
-    "Rose Bowl",
-    "Peach Bowl",
-    "Orange Bowl",
-    "Tostitos Fiesta Bowl",
-    "Mango Bowl",
-    "Party Bowl",
-    "Armed Forces Bowl",
-    "Salad Bowl",
-    "Frost Bowl",
-    "Tropical Bowl",
-    "Music City Bowl",
-    "Island Bowl",
-    "Philantropy Bowl",
-    "Gaspirilla Bowl",
-    "Camping Bowl",
-    "Idaho Potato Bowl",
-    "Music Bowl",
-    "Social Faces Bowl",
-    "Pinstripe Bowl",
-    "Burrito Bowl",
-    "Cascade Bowl",
-    "Carnation Bowl",
-    "Mandarin Bowl",
-    "Holiday Bowl",
-    "Nectatrine Bowl",
-    "Polyester Bowl",
-    "Adidas Bowl",
-    "Gator Bowl",
-    "Desert Bowl",
-    "Fort Bowl",
-    "Vacation Bowl",
-    "Star Bowl",
-    "Bell Bowl",
-    "Freedom Bowl",
+    "Rose Bowl by Northwestern Mutual",
+    "Allstate Sugar Bowl",
+    "Capitol One Orange Bowl",
+    "Chick fil A Peach Bowl",
+    "Playstation Fiesta Bowl",
+    "Goodyear Cotton Bowl Classic",
+    "Outback Bowl",
+    "Camellia Bowl",
+    "VRBO Citrus Bowl",
+    "Valero Alamo Bowl",
+    "TaxSlayer Gator Bowl",
+    "Union Home Gasparilla Bowl",
+    "Los Angeles Bowl",
+    "TransPerfect Music City Bowl",
     "Las Vegas Bowl",
-    "Search Engine Bowl"
+    "New Mexico Bowl",
+    "Boca Raton Bowl",
+    "Ticketmaster Birmingham Bowl",
+    "Myrtle Beach Bowl",
+    "Guaranteed Rate Bowl",
+    "Lockheed Martin Armed Forces Bowl",
+    "Autozone Liberty Bowl",
+    "Military Bowl Presented by Perspecta",
+    "Academy Sports + Outdoors Texas Bowl",
+    "Radiance Technologies Independence Bowl",
+    "LendingTree Bowl",
+    "R L Carriers New Orleans Bowl",
+    "Servpro First Responders Bowl",
+    "Tony the Tiger Sun Bowl",
+    "New Era Pinstripe Bowl",
+    "Tropical Smoothie Frisco Bowl",
+    "Duke's Mayo Bowl",
+    "NOVA Home Loans Arizona Bowl",
+    "Cheez-It Bowl",
+    "Famous Idaho Potato Bowl",
+    "Cure Bowl"
   ]
 }
+
+ 
+   
+
