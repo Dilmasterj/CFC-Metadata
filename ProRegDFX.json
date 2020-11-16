@@ -5,7 +5,7 @@
       "confTeams" : [
         {
           "abbreviation" : "ALA",
-          "prestige" : "90",
+          "prestige" : "0",
           "hexColor" : "#000080",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -56,7 +56,7 @@
         },
         {
           "abbreviation" : "GT",
-          "prestige" : "90",
+          "prestige" : "0",
           "hexColor" : "#FFE22C",
           "offCoordinator" : {
             "contractLength" : "3",
@@ -107,7 +107,7 @@
         },
         {
           "abbreviation" : "FLA",
-          "prestige" : "85",
+          "prestige" : "0",
           "hexColor" : "#2139CE",
           "offCoordinator" : {
             "contractLength" : "3",
@@ -158,7 +158,7 @@
         },
         {
           "abbreviation" : "AUB",
-          "prestige" : "80",
+          "prestige" : "0",
           "hexColor" : "#FCBB0D",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -209,7 +209,7 @@
         },
         {
           "abbreviation" : "UGA",
-          "prestige" : "75",
+          "prestige" : "0",
           "hexColor" : "#F80628",
           "offCoordinator" : {
             "contractLength" : "3",
@@ -260,7 +260,7 @@
         },
         {
           "abbreviation" : "LSU",
-          "prestige" : "75",
+          "prestige" : "0",
           "hexColor" : "#081C90",
           "offCoordinator" : {
             "contractLength" : "2",
@@ -311,7 +311,7 @@
         },
         {
           "abbreviation" : "MISS",
-          "prestige" : "70",
+          "prestige" : "0",
           "hexColor" : "#F7BD0A",
           "offCoordinator" : {
             "contractLength" : "3",
@@ -362,7 +362,7 @@
         },
         {
           "abbreviation" : "MSST",
-          "prestige" : "65",
+          "prestige" : "0",
           "hexColor" : "#AF8706",
           "offCoordinator" : {
             "contractLength" : "2",
@@ -413,7 +413,7 @@
         },
         {
           "abbreviation" : "FSU",
-          "prestige" : "65",
+          "prestige" : "0",
           "hexColor" : "#DAA520",
           "offCoordinator" : {
             "contractLength" : "2",
@@ -464,7 +464,7 @@
         },
         {
           "abbreviation" : "MIA",
-          "prestige" : "50",
+          "prestige" : "0",
           "hexColor" : "#0067AC",
           "offCoordinator" : {
             "contractLength" : "3",
@@ -515,14 +515,14 @@
         }
       ],
       "confFullName" : "Southeastern",
-      "confPrestige" : "25",
+      "confPrestige" : "0",
       "confName" : "SEC"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "UM",
-          "prestige" : "90",
+          "prestige" : "84",
           "hexColor" : "#9F011A",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -624,7 +624,7 @@
         },
         {
           "abbreviation" : "ND",
-          "prestige" : "80",
+          "prestige" : "88",
           "hexColor" : "#131630",
           "offCoordinator" : {
             "contractLength" : "2",
