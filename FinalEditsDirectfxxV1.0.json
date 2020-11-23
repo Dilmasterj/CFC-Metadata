@@ -3413,7 +3413,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "72",
+          "prestige" : "85",
           "hexColor" : "#F5A329",
           "offCoordinator" : {
             "contractLength" : "2",
