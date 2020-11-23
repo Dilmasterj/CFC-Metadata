@@ -4447,7 +4447,7 @@
         },
         {
           "abbreviation" : "CCU",
-          "prestige" : "50",
+          "prestige" : "75",
           "hexColor" : "#9E0712",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -4862,7 +4862,7 @@
         },
         {
           "abbreviation" : "IU",
-          "prestige" : "75",
+          "prestige" : "88",
           "hexColor" : "#BB8D09",
           "offCoordinator" : {
             "contractLength" : "2",
